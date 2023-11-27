@@ -1,1 +1,40 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: lightblue;
+}
+
+p {
+    color: darkblue;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: darkblue;
+}
+h4 {
+    color: darkblue;
+}
+h5 {
+    color: black;
+}
+h6 {
+    color: darkblue;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+.img-thumbnail {
+    margin-top: -15%;
+    margin-left: 5%;
+    width: 25%;
+    height: auto;
+}
